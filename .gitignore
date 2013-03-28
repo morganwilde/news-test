@@ -6,6 +6,7 @@ venv
 .project
 .pydevproject
 .settings
+.buildpath
 *~
 
 # Sensitive

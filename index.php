@@ -1,8 +1,5 @@
 <?php
 
-error_reporting(E_ALL);
-ini_set('display_errors', '1');
-
 require_once 'classes/environment.class.php';
 require_once 'classes/news.class.php';
 require_once 'classes/actions.class.php';
