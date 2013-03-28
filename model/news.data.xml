@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<news>
+	<newsItem>
+		<title/>
+		<time/>
+		<content/>
+	</newsItem>
+<newsItem id="1364482318">
+		<title>Mozilla is Unlocking the Power of the Web as a Platform for Gaming</title>
+		<time>1364482318</time>
+		<content>Mozilla, a non-profit organization dedicated to promoting openness, innovation and opportunity on the Web, is advancing the Web as the platform for high-end game development. With Mozilla’s latest innovations in JavaScript, game developers and publishers can now take advantage of fast performance that rivals native while leveraging scale of the Web, without the additional costs associated with third-party plugins. This allows them to distribute visually stunning and performance intensive games to billions of people more easily and cost effectively than before.</content>
+	</newsItem><newsItem id="1364482531">
+		<title>Latest news</title>
+		<time>1364482531</time>
+		<content>Coming right at you</content>
+	</newsItem></news>

@@ -1,0 +1,39 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html>
+	<head>
+		<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+		<title>News OOP</title>
+		<style type="text/css">
+			body {
+				font-family: Arial;
+				font-weight: normal;
+				font-size: 14px;
+			}
+				h1.home {cursor: pointer;}
+			
+				div.item {overflow: auto; width: 800px; margin: 5px; padding: 5px;}
+				div.item:hover {background: grey; color: white;}
+				div.item div.time {float: left; width: 20%; color: grey;}
+				div.item div.title {float: left; width: 80%; font-weight: bold;}
+				div.item div.content {margin: 26px 0 20px; clear:both;}
+				
+				form {width: 400px; padding: 5px; background: #E8DDDD; border-radius: 3px; text-align: center;}
+				form p {width: 300px; margin: 10px auto; text-align: left;}
+				
+				input[type="text"], textarea {
+					width: 300px;
+					border-style: inset;
+					border-width: 1px;
+					border-radius: 3px;
+				}
+				textarea {height: 100px;}
+		</style>
+	</head>
+	<body>
+		<h1 class="home" onclick="location.href = 'index.php'">News</h1>
+		<div class="news">{%news_block}</div>
+		<h1>Submit</h1>
+		<p class="errors">{%errors}</p>
+		<div class="form">{%form_block}</div>
+	</body>
+</html>
