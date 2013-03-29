@@ -49,8 +49,8 @@ class news {
 				
 				$template = new tpl('templates/news.list.html');
 				$template->setVar('time', $time);
-				$template->setVar('title', $news->title);
-				$template->setVar('content', $news->content);
+				$template->setVar('title', htmlentities($news->title));
+				$template->setVar('content', htmlentities($news->content));
 				$html .= $template->render();
 			}
 		}

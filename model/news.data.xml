@@ -13,4 +13,24 @@
 		<title>Latest news</title>
 		<time>1364482531</time>
 		<content>Coming right at you</content>
+	</newsItem><newsItem id="1364483455">
+		<title>''</title>
+		<time>1364483455</time>
+		<content>''</content>
+	</newsItem><newsItem id="1364572380">
+		<title>asd</title>
+		<time>1364572380</time>
+		<content>&amp;amp;lt;script&amp;amp;gt;alert('tralialia');&amp;amp;lt;/script&amp;amp;gt;</content>
+	</newsItem><newsItem id="1364572398">
+		<title>dfgdfg</title>
+		<time>1364572398</time>
+		<content>&lt;script&gt;window.location.href="https://www.google.lt/search?q=filter+input+escape+output"&lt;/script&gt;</content>
+	</newsItem><newsItem id="1364572599">
+		<title>fgdf</title>
+		<time>1364572599</time>
+		<content>&amp;lt;script&amp;gt;window.location.href=&amp;quot;https://www.google.lt/search?q=filter+input+escape+output&amp;quot;&amp;lt;/script&amp;gt;</content>
+	</newsItem><newsItem id="1364572635">
+		<title>sdfsd</title>
+		<time>1364572635</time>
+		<content>&lt;script&gt;window.location.href="https://www.google.lt/search?q=filter+input+escape+output"&lt;/script&gt;</content>
 	</newsItem></news>
